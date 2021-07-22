@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome Aset Kota Serang 'Shared' Repository.
+![Image](https://avatars.githubusercontent.com/u/87792627?v=4)
+
+[View-On-GitHub](http://github.com/asetkotaserang)
+
+`function() {
+  var hack = forceGetHappiness();
+  return $hack;
+}`
 
 You can use the [editor on GitHub](https://github.com/asetkotaserang/shared/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
