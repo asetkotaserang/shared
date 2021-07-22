@@ -1,4 +1,4 @@
-## Welcome Aset Kota Serang 'Shared' Repository.
+## Welcome to Aset Kota Serang 'Shared' Repository.
 ![Image](https://avatars.githubusercontent.com/u/87792627?v=4)
 
 [View-On-GitHub](http://github.com/asetkotaserang)
