@@ -1,5 +1,5 @@
 ## Welcome to Aset Kota Serang 'Shared' Repository.
-![Image](https://avatars.githubusercontent.com/u/87792627?v=4)
+![Logo_Kota_Serang](https://avatars.githubusercontent.com/u/87792627?s=120&v=4)
 
 [View-On-GitHub](http://github.com/asetkotaserang)
 
